@@ -1,4 +1,4 @@
-# test_out_git_project
+# Header goes here
 
 We are trying out git for teaching purposes.
 
